@@ -1,0 +1,6 @@
+{
+  id: movie.id,
+  title: movie.title,
+  rating: movie.rating,
+  synopsis: movie.synopsis
+}
